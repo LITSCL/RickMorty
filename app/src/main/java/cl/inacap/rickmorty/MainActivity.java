@@ -14,6 +14,7 @@ public class MainActivity extends AppCompatActivity {
     private ViewPager vp;
     private TabLayout tl;
     private TabsNavPageAdapter tpa;
+    
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
